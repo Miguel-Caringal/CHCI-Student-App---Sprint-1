@@ -12,6 +12,9 @@
 		BC22827B1FAB57DF000BC77C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC2282791FAB57DF000BC77C /* Main.storyboard */; };
 		BC22827D1FAB57DF000BC77C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC22827C1FAB57DF000BC77C /* Assets.xcassets */; };
 		BC2282801FAB57DF000BC77C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC22827E1FAB57DF000BC77C /* LaunchScreen.storyboard */; };
+		BC2389461FBA66CE00EF3743 /* Code39r 2.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BC2389451FBA66CE00EF3743 /* Code39r 2.ttf */; };
+		BC2389481FBA67C900EF3743 /* Code-39-Logitogo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BC2389471FBA67C800EF3743 /* Code-39-Logitogo.ttf */; };
+		BC6697BE1FB1FF2F005DE030 /* BarcodeFont.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BC6697BD1FB1FF2F005DE030 /* BarcodeFont.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		BC22827C1FAB57DF000BC77C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BC22827F1FAB57DF000BC77C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BC2282811FAB57DF000BC77C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BC2389451FBA66CE00EF3743 /* Code39r 2.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Code39r 2.ttf"; sourceTree = SOURCE_ROOT; };
+		BC2389471FBA67C800EF3743 /* Code-39-Logitogo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Code-39-Logitogo.ttf"; sourceTree = "<group>"; };
+		BC6697BD1FB1FF2F005DE030 /* BarcodeFont.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = BarcodeFont.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +46,9 @@
 			children = (
 				BC2282741FAB57DF000BC77C /* sprint1 */,
 				BC2282731FAB57DF000BC77C /* Products */,
+				BC6697BD1FB1FF2F005DE030 /* BarcodeFont.ttf */,
+				BC2389451FBA66CE00EF3743 /* Code39r 2.ttf */,
+				BC2389471FBA67C800EF3743 /* Code-39-Logitogo.ttf */,
 			);
 			sourceTree = "<group>";
 		};
@@ -125,7 +134,10 @@
 			files = (
 				BC2282801FAB57DF000BC77C /* LaunchScreen.storyboard in Resources */,
 				BC22827D1FAB57DF000BC77C /* Assets.xcassets in Resources */,
+				BC6697BE1FB1FF2F005DE030 /* BarcodeFont.ttf in Resources */,
+				BC2389461FBA66CE00EF3743 /* Code39r 2.ttf in Resources */,
 				BC22827B1FAB57DF000BC77C /* Main.storyboard in Resources */,
+				BC2389481FBA67C900EF3743 /* Code-39-Logitogo.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
